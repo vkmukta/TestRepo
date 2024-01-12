@@ -1,0 +1,10 @@
+This is the first test file
+I have created a test file and then commit it
+So far I have learned that git is a version control system
+main reason to use vcs is for keeping track of the changes made to the project/code
+and also to collaborate between a group
+GitHub on the other side is a webserive/website where we can apply the same git concepts
+but it will be on a server and accesible by a group for collaboration
+Files can be pushed to github from the local systems and accessed by different users
+Repository is like a single project containing lots of files
+COMMIT is a command for save
