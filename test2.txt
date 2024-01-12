@@ -8,3 +8,6 @@ This is the same file in test Branch and I am making changes here which will not
 
 Under insights -> network, I can see the physical representation of what my branches look like.
 Let me now try to send this branch back to master because I am satisfied with the changes on test branch
+Push - sending something
+Pull request - taking back something to master
+Merge - 
