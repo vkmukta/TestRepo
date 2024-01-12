@@ -1,0 +1,9 @@
+Issues:
+Place to leave comments about projects
+warning, bugs, issues, ask questions, topic discussions.
+It can be used in any way
+Can add labels to the issues.
+
+Markdown to learn how to type 
+[this is Markdown CHeatsheet](https://www.markdownguide.org/cheat-sheet/)
+this works in comments? etc?
