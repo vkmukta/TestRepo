@@ -11,3 +11,6 @@ Let me now try to send this branch back to master because I am satisfied with th
 Push - sending something
 Pull request - taking back something to master
 Merge - 
+
+Changes made from the testBranch are now added into the main branch.
+These same changes can also be viewed in a physical representation to make it easier to understand.
