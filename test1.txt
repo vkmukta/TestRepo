@@ -9,4 +9,4 @@ Files can be pushed to github from the local systems and accessed by different u
 Repository is like a single project containing lots of files
 COMMIT is a command for save
 I'm making changes to this files after commiting the file for the first time.
-Another commit with a few more lines
+Additions are shown with a green highlight and +, where as deletions are highlighted by red and --
