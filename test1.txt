@@ -8,3 +8,4 @@ but it will be on a server and accesible by a group for collaboration
 Files can be pushed to github from the local systems and accessed by different users
 Repository is like a single project containing lots of files
 COMMIT is a command for save
+I'm making changes to this files after commiting the file for the first time.
