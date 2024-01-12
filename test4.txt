@@ -8,6 +8,8 @@ Each issue will be assigned a number. And after making changes wrt to that issue
 which is helpful. This is reflect the line number and a hyper link.
 If you add "This fixes #1 issue" Git is automatically recognise that and resolve the issue for me
 
+You can also file an issue by mentioning the commit hash
+
 Markdown to learn how to type 
 [this is Markdown CHeatsheet](https://www.markdownguide.org/cheat-sheet/)
 this works in comments? etc?
