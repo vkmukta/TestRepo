@@ -1,0 +1,5 @@
+Linear list of changes made to the file.
+If I want to save the changes as it is, but experiment with the code separetly
+I can create a seprate branch and do all the experiments on it
+this branch, branches from the initial linear list which is called as the master.
+I can still continue to make changes in the master branch which will not reflect on the side branch
