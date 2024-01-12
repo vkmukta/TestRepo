@@ -1,0 +1,12 @@
+Fork a branch:
+if I want to use someone else's branch in my account and not disturb their branch, I should fork their branch
+I get an exact replica with all the histroy
+
+Pull Request:
+If I want to send my work back to the main branch/account to add the data into the main account
+I would have to send a pull request.
+I don't have permission to push into the main account.
+So I send a request saying could you like to pull this data into the main account?
+
+Sending out from master branch is pushing
+Taking in to master branch is pulling
