@@ -5,7 +5,7 @@ this branch, branches from the initial linear list which is called as the master
 I can still continue to make changes in the master branch which will not reflect on the side branch
 
 This is the same file in test Branch and I am making changes here which will not reflect in the master branch
-
+//making changes in main branch + testbranch2 in the same file different line to see how it works
 Under insights -> network, I can see the physical representation of what my branches look like.
 Let me now try to send this branch back to master because I am satisfied with the changes on test branch
 Push - sending something
