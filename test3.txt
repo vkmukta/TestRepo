@@ -10,3 +10,6 @@ So I send a request saying could you like to pull this data into the main accoun
 
 Sending out from master branch is pushing
 Taking in to master branch is pulling
+
+Github already knows we can edit in main accounts, so when trying to edit it will show "Fork the branch and edit in your account"
+or there is an option to fork.
