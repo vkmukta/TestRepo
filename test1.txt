@@ -11,3 +11,4 @@ COMMIT is a command for save
 I'm making changes to this files after commiting the file for the first time.
 Additions are shown with a green highlight and +, where as deletions are highlighted by red and --
 Commit hash is a unqiue number to indentify this particular commit
+Each of the commits have a different commit hash, unique to itself
