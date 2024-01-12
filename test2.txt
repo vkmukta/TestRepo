@@ -3,3 +3,11 @@ If I want to save the changes as it is, but experiment with the code separetly
 I can create a seprate branch and do all the experiments on it
 this branch, branches from the initial linear list which is called as the master.
 I can still continue to make changes in the master branch which will not reflect on the side branch
+
+This is the same file in test Branch and I am making changes here which will not reflect in the master branch
+
+Under insights -> network, I can see the physical representation of what my branches look like.
+Let me now try to send this branch back to master because I am satisfied with the changes on test branch
+Push - sending something
+Pull request - taking back something to master
+Merge - 
