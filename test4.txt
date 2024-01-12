@@ -4,6 +4,10 @@ warning, bugs, issues, ask questions, topic discussions.
 It can be used in any way
 Can add labels to the issues.
 
+Each issue will be assigned a number. And after making changes wrt to that issue, you can add it in the despcription saying "As per issues #1, changes made"
+which is helpful. This is reflect the line number and a hyper link.
+If you add "This fixes #1 issue" Git is automatically recognise that and resolve the issue for me
+
 Markdown to learn how to type 
 [this is Markdown CHeatsheet](https://www.markdownguide.org/cheat-sheet/)
 this works in comments? etc?
